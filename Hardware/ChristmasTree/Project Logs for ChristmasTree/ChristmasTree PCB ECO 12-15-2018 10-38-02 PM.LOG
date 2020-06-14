@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=3V0 Pin=U4-35
+Change Component Footprint: Designator=U4 Old Footprint=QFN50P700X700X85_HS-49M-pad New Footprint=QFN50P700X700X85_HS-49M
+Added Pin To Net: NetName=3V0 Pin=U4-33

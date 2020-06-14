@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=U4 Old Footprint=QFN50P700X700X85_HS-49M New Footprint=QFN50P700X700X85_HS-49M-noTH
+Added Pin To Net: NetName=NetR29_1 Pin=U4-35

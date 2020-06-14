@@ -1,0 +1,8 @@
+Added Component: Designator=C15(SMD CAP-6.3X7.7MM-A1K2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=3V0 Pin=U4-35

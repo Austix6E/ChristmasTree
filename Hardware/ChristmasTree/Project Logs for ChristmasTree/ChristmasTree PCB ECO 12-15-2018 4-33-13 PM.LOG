@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=NetQ25_1 Pin=Q25-1
+Added Pin To Net: NetName=NetQ25_1 Pin=R8-2
+Added Net: Name=NetQ25_1
+Added Pin To Net: NetName=NetQ26_1 Pin=Q26-1
+Added Pin To Net: NetName=NetQ26_1 Pin=R9-2
+Added Net: Name=NetQ26_1
+Added Pin To Net: NetName=NetQ27_1 Pin=Q27-1
+Added Pin To Net: NetName=NetQ27_1 Pin=R10-2
+Added Net: Name=NetQ27_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U4-21
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U4-23
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U4-25
+Added Net: Name=NetR10_1

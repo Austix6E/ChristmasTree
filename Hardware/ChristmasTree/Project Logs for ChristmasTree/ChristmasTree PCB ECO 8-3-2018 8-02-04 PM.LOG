@@ -1,0 +1,5 @@
+Added Component: Designator=R63(RES 0603_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=R63-1
+Added Pin To Net: NetName=NetR63_2 Pin=R63-2

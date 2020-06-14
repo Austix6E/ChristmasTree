@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [ChristmasTree.PcbDoc]
+   Generated File[ChristmasTree.TXT]
+   Generated File[ChristmasTree.DRL]
+   Generated File[ChristmasTree.LDP]
+   Generated File[ChristmasTree.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:24:53 PM On 12/16/2018

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetR8_1 Pin=U2-1
+Removed Pin From Net: NetName=NetR6_1 Pin=U2-2
+Removed Pin From Net: NetName=NetR5_1 Pin=U2-3
+Removed Pin From Net: NetName=NetR4_1 Pin=U2-4
+Removed Pin From Net: NetName=NetR3_1 Pin=U2-5
+Removed Pin From Net: NetName=NetR1_1 Pin=U2-6
+Removed Pin From Net: NetName=NetR9_1 Pin=U2-15
+Added Pin To Net: NetName=NetR9_1 Pin=U2-1
+Added Pin To Net: NetName=NetR4_1 Pin=U2-2
+Added Pin To Net: NetName=NetR1_1 Pin=U2-3
+Added Pin To Net: NetName=NetR3_1 Pin=U2-4
+Added Pin To Net: NetName=NetR6_1 Pin=U2-5
+Added Pin To Net: NetName=NetR8_1 Pin=U2-6
+Added Pin To Net: NetName=NetR5_1 Pin=U2-7

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=1V2 Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=1V2 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Change Component Footprint: Designator=C9 Old Footprint=CAP 0603_N New Footprint=CAP 0805_N

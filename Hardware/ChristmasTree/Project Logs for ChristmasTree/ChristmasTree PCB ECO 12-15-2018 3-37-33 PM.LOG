@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=3V0 Pin=D2-4
+Removed Pin From Net: NetName=3V0 Pin=D3-4
+Removed Pin From Net: NetName=3V0 Pin=D4-4
+Removed Pin From Net: NetName=3V0 Pin=D5-4
+Removed Pin From Net: NetName=3V0 Pin=D6-4
+Removed Pin From Net: NetName=3V0 Pin=D7-4
+Removed Pin From Net: NetName=3V0 Pin=D8-4
+Removed Pin From Net: NetName=3V0 Pin=D9-4
+Removed Pin From Net: NetName=3V0 Pin=D10-4
+Removed Pin From Net: NetName=3V0 Pin=D11-4
+Removed Pin From Net: NetName=NetQ28_1 Pin=R35-2
+Removed Pin From Net: NetName=NetQ29_1 Pin=R36-2
+Removed Pin From Net: NetName=NetQ30_1 Pin=R37-2
+Added Pin To Net: NetName=NetQ28_1 Pin=R17-2
+Added Pin To Net: NetName=NetQ29_1 Pin=R18-2
+Added Pin To Net: NetName=NetQ30_1 Pin=R19-2
+Added Pin To Net: NetName=3V0 Pin=U4-35
